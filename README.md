@@ -36,7 +36,7 @@ background and foregorund text colors, text animations, ascii fonts, Convert ima
 from tercuz import Colors, Terminal, Animations ,Ascii_Font, Ascii_Display
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Documentation](https://github.com/clarenceparmar/documentations/blob/62a033e16abc6fc768b11cf3a171a156ab61a9ff/TerCuz_Documentations)
 
 
 ## Author
