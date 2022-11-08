@@ -21,9 +21,31 @@ background and foregorund text colors, text animations, ascii fonts, Convert ima
 
 ## Installation
 
+## pip
+
 - pip install tercuz
 - pip install --upgrade tercuz
-    
+
+## git
+
+- git clone https://github.com/clarenceparmar/TerCuz.git
+- cd tercuz 
+- python install.py
 ## Usage
 
 from tercuz import Colors, Terminal, Animations ,Ascii_Font, Ascii_Display
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
+
+## Author
+
+- [@clarence_parmar](https://github.com/clarenceparmar)
+
+## Special Thanks to the Creators 
+
+- [@pillow](https://pypi.org/project/Pillow/)
+- [@opencv-python](https://pypi.org/project/opencv-python/)
+- [@pyfiglet](https://pypi.org/project/pyfiglet/)
+- [@numpy](https://pypi.org/project/numpy/)
